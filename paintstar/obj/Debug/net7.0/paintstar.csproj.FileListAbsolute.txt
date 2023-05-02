@@ -1,0 +1,15 @@
+D:\C#VisualCode\paintstar\bin\Debug\net7.0\paintstar.exe
+D:\C#VisualCode\paintstar\bin\Debug\net7.0\paintstar.deps.json
+D:\C#VisualCode\paintstar\bin\Debug\net7.0\paintstar.runtimeconfig.json
+D:\C#VisualCode\paintstar\bin\Debug\net7.0\paintstar.dll
+D:\C#VisualCode\paintstar\bin\Debug\net7.0\paintstar.pdb
+D:\C#VisualCode\paintstar\obj\Debug\net7.0\paintstar.csproj.AssemblyReference.cache
+D:\C#VisualCode\paintstar\obj\Debug\net7.0\paintstar.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#VisualCode\paintstar\obj\Debug\net7.0\paintstar.AssemblyInfoInputs.cache
+D:\C#VisualCode\paintstar\obj\Debug\net7.0\paintstar.AssemblyInfo.cs
+D:\C#VisualCode\paintstar\obj\Debug\net7.0\paintstar.csproj.CoreCompileInputs.cache
+D:\C#VisualCode\paintstar\obj\Debug\net7.0\paintstar.dll
+D:\C#VisualCode\paintstar\obj\Debug\net7.0\refint\paintstar.dll
+D:\C#VisualCode\paintstar\obj\Debug\net7.0\paintstar.pdb
+D:\C#VisualCode\paintstar\obj\Debug\net7.0\paintstar.genruntimeconfig.cache
+D:\C#VisualCode\paintstar\obj\Debug\net7.0\ref\paintstar.dll
